@@ -4,6 +4,7 @@ public class Main {
         System.out.println(programmer);
         Dancer dancer=new Dancer("Saltanat","dancing","Sedep");
         System.out.println(dancer);
+
         Singer singer=new Singer("Eliza","singing","Asaba");
         System.out.println(singer);
     }
